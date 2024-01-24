@@ -1,8 +1,14 @@
-# React + Vite
+# About the Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Designed a replica of the 100x developers' website with complete responsiveness.
 
-Currently, two official plugins are available:
+## Build with:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React JS
+- Tailwind CSS
+
+👉Live Demo : [100xdevs-clone](https://100xdevs-clone-vivek.netlify.app/)
+
+## Screenshots of the Project
+
+![App Screenshot](./Screenshot/100xdevs-clone-vivek-netlify-app-1024xFULLdesktop-b35286.jpg)
